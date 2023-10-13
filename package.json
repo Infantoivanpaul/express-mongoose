@@ -1,0 +1,15 @@
+{
+  "name": "express-crud",
+  "version": "1.0.0",
+  "description": "npm init npm i express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  }
+}
